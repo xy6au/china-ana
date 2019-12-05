@@ -64,6 +64,7 @@ $(function () {
              })
 
          }
+         $().button('toggle')
      }
 
  }
